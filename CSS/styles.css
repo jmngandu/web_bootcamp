@@ -1,6 +1,10 @@
 /*my first css */
 
 body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: chartreuse;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: yellowgreen;
+}
+
+img {
+    border: 10px solid green;
 }
