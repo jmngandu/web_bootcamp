@@ -6,3 +6,13 @@ body {
 img {
     border: 1px solid green;
 }
+
+h1 {
+    border: 5px dotted red;
+    text-align: center;
+}
+
+blockquote {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+}
