@@ -1,5 +1,9 @@
 /*my first css */
-
+h1 {
+    border: 5px dotted red;
+    background-color: black;
+    text-align: center;
+}
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: yellowgreen;
