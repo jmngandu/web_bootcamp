@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffcc;
+}
+
+img {
+    border: 1px solid green;
+}
+
+.Gclass {
+    border: 5px dotted red;
+    text-align: center;
+}
+
+blockquote {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+}
